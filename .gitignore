@@ -1,0 +1,10 @@
+#Python catch files
+__pycach__/
+*.pyc
+
+#Operating system files
+.DS_Store
+
+#Large or temporary output files
+*.png
+*.jpg
